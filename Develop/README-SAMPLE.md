@@ -1,6 +1,6 @@
 # README generator
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   ## Table of Contents
   1. [Description](#description)
@@ -12,16 +12,16 @@
   7. [Questions](#questions)
 
   ## Description
-  An application that allows a user to generate a README file based off infromation they are prompted
+  This application will generate a README file based on information the user enters when prompted
 
   ## Installation
-  You will need to run npm i in the terminal
+  You will need to run npm install
 
   ## Usage
   na
 
   ## License
-  Apache 2.0
+  IBM
 
   ## Contributing
   na
